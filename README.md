@@ -128,5 +128,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Author
 
-**YOUR NAME**
-[GitHub](https://github.com/YOUR-USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR-PROFILE)
+**Mohsin Zeb**
